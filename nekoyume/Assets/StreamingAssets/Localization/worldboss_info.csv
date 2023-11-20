@@ -11,11 +11,11 @@ UI_BOSS_900001_INFO_WAVE1,"<color=#c17636><size=20><b>[Attack Pattern] Scratchin
 
 - Fenrir abissal entra no estado de Berserk a cada 30 turnos.
 - No estado de Berserk, o acaso crítico se torna <b>60%</b>, o ATK aumenta em <b>60%</b> e o DEF diminui em <b>100%</b>.
-- O abismo Fenrir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636><size=20> <b>[攻撃パターン]スクラッチ - 基本攻撃 - 基本攻撃 - 基本攻撃 - </b></size></color>
+- O abismo Fenrir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636><size=20> <b>[攻撃パターン]スクラッチ - 基本攻撃 - 基本攻撃 - 基本攻撃 </b></size></color>
 
--Abyssal Fenrirは、30ターンごとにBerserk Stateに入ります。
-- バーセルク州では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>60％</b>増加し、defは<b>100％</b>減少します。
--Abyssal Fenrirは非属性であり、Arenaが適用するのと同じ精度式があります。","<color=#c17636><size=20><b>[patrón de ataque] rascado - ataque básico - ataque básico - ataque básico </b></size></color>
+- 深淵のフェンリルは、30ターンごとにバーサーク状態に入ります。
+- バーサク状態では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>60％</b>増加し、DEFは<b>100％</b>減少します。
+- 深淵のフェンリルは無属性であり、アリーナと同じ命中計算式が適用されます。","<color=#c17636><size=20><b>[patrón de ataque] rascado - ataque básico - ataque básico - ataque básico </b></size></color>
 
 - Abyssal Fenrir entra en el estado de Berserk cada 30 turnos.
 - En el estado de Berserk, la posibilidad crítica se convierte en <b>60%</b>, ATK aumenta en <b>60%</b> y DEF disminuye en <b>100%</b>.
@@ -58,11 +58,11 @@ UI_BOSS_900001_INFO_WAVE2,"<color=#c17636><size=20><b>[Attack Pattern] Scratchin
 
 - Fenrir abissal entra no estado de Berserk a cada 30 turnos.
 - No estado de Berserk, o acaso crítico se torna <b>60%</b>, o ATK aumenta em <b>80%</b> e o DEF diminui em <b>100%</b>.
-- O abismo Fenrir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]スクラッチ - 基本攻撃 - 基本攻撃 - 二重攻撃 - 基本攻撃</b></size></color>
+- O abismo Fenrir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]スクラッチ - 基本攻撃 - 基本攻撃 - ダブル攻撃 - 基本攻撃</b></size></color>
 
--Abyssal Fenrirは、30ターンごとにBerserk Stateに入ります。
-- バーセルク州では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>80％</b>増加し、defは<b>100％</b>減少します。
--Abyssal Fenrirは非属性であり、Arenaが適用するのと同じ精度式があります。","<color=#c17636><size=20><b>[patrón de ataque] rascado - ataque básico - ataque básico - doble ataque - ataque básico </b></size></color>
+- 深淵のフェンリルは、30ターンごとにバーサーク状態に入ります。
+- バーサク状態では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>80％</b>増加し、DEFは<b>100％</b>減少します。
+- 深淵のフェンリルは無属性であり、アリーナと同じ命中計算式が適用されます。","<color=#c17636><size=20><b>[patrón de ataque] rascado - ataque básico - ataque básico - doble ataque - ataque básico </b></size></color>
 
 - Abyssal Fenrir entra en el estado de Berserk cada 30 turnos.
 - En el estado de Berserk, la oportunidad crítica se convierte en <b>60%</b>, ATK aumenta en <b>80%</b> y DEF disminuye en <b>100%</b>.
@@ -105,11 +105,11 @@ UI_BOSS_900001_INFO_WAVE3,"<color=#c17636><size=20><b>[Attack Pattern] Scratchin
 
 - Fenrir abissal entra no estado de Berserk a cada 30 turnos.
 - No estado de Berserk, o acaso crítico se torna <b>60%</b>, o ATK aumenta em <b>100%</b> e diminui <b>100%</b>.
-- O abismo Fenrir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]スクラッチ - 二重攻撃 - 基本攻撃 - レイジ - 基本攻撃</b></size></color>
+- O abismo Fenrir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]スクラッチ - ダブル攻撃 - 基本攻撃 - 憤怒 - 基本攻撃</b></size></color>
 
--Abyssal Fenrirは、30ターンごとにBerserk Stateに入ります。
-- バーセルク州では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>100％</b>増加し、defは<b>100％</b>減少します。
--Abyssal Fenrirは非属性であり、Arenaが適用するのと同じ精度式があります。","<color=#c17636><size=20><b>[patrón de ataque] rascado - doble ataque - ataque básico - rabia - ataque básico </b></size></color>
+- 深淵のフェンリルは、30ターンごとにバーサーク状態に入ります。
+- バーサク状態では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>100％</b>増加し、DEFは<b>100％</b>減少します。
+- 深淵のフェンリルは無属性であり、アリーナと同じ命中計算式が適用されます。","<color=#c17636><size=20><b>[patrón de ataque] rascado - doble ataque - ataque básico - rabia - ataque básico </b></size></color>
 
 - Abyssal Fenrir entra en el estado de Berserk cada 30 turnos.
 - En el estado de Berserk, la oportunidad crítica se convierte en <b>60%</b>, ATK aumenta en <b>100%</b> y DEF disminuye en <b>100%</b>.
@@ -152,11 +152,11 @@ UI_BOSS_900001_INFO_WAVE4,"<color=#c17636><size=20><b>[Attack Pattern] Scratchin
 
 - Fenrir abissal entra no estado de Berserk a cada 30 turnos.
 - No estado de Berserk, o acaso crítico se torna <b>60%</b>, ATK aumenta em <b>120%</b> e DEF diminui em <b>100%</b>.
-- O abismo Fenrir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]スクラッチ - 二重攻撃 - 基本攻撃 - レイジ - 基本攻撃 - 噛みつき</b></size></color>
+- O abismo Fenrir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]スクラッチ - ダブル攻撃 - 基本攻撃 - 憤怒 - 基本攻撃 - 噛みつき</b></size></color>
 
--Abyssal Fenrirは、30ターンごとにBerserk Stateに入ります。
-- バーセルク州では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>120％</b>増加し、defは<b>100％</b>減少します。
--Abyssal Fenrirは非属性であり、Arenaが適用するのと同じ精度式があります。","<color=#c17636><size=20><b>[patrón de ataque] rascado - doble ataque - ataque básico - rabia - ataque básico - mordida </b></size></color>
+- 深淵のフェンリルは、30ターンごとにバーサーク状態に入ります。
+- バーサク状態では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>120％</b>増加し、DEFは<b>100％</b>減少します。
+- 深淵のフェンリルは無属性であり、アリーナと同じ命中計算式が適用されます。","<color=#c17636><size=20><b>[patrón de ataque] rascado - doble ataque - ataque básico - rabia - ataque básico - mordida </b></size></color>
 
 - Abyssal Fenrir entra en el estado de Berserk cada 30 turnos.
 - En el estado de Berserk, la oportunidad crítica se convierte en <b>60%</b>, ATK aumenta en <b>120%</b> y DEF disminuye en <b>100%</b>.
@@ -199,11 +199,11 @@ UI_BOSS_900001_INFO_WAVE5,"<color=#c17636><size=20><b>[Attack Pattern] Scratchin
 
 - Fenrir abissal entra no estado de Berserk a cada 30 turnos.
 - No estado de Berserk, o acaso crítico se torna <b>60%</b>, ATK aumenta em <b>150%</b> e DEF diminui em <b>100%</b>.
-- O abismo Fenrir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]スクラッチ - 二重攻撃 - 基本攻撃 - レイジ - 基本攻撃 - 噛みつき</b></size></color>
+- O abismo Fenrir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]スクラッチ - ダブル攻撃 - 基本攻撃 - 憤怒 - 基本攻撃 - 噛みつき</b></size></color>
 
--Abyssal Fenrirは、30ターンごとにBerserk Stateに入ります。
-- バーセルク州では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>150％</b>増加し、defは<b>100％</b>減少します。
--Abyssal Fenrirは非属性であり、Arenaが適用するのと同じ精度式があります。","<color=#c17636><size=20><b>[patrón de ataque] rascado - doble ataque - ataque básico - rabia - ataque básico - mordida </b></size></color>
+- 深淵のフェンリルは、30ターンごとにバーサーク状態に入ります。
+- バーサク状態では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>120％</b>増加し、DEFは<b>100％</b>減少します。
+- 深淵のフェンリルは無属性であり、アリーナと同じ命中計算式が適用されます。","<color=#c17636><size=20><b>[patrón de ataque] rascado - doble ataque - ataque básico - rabia - ataque básico - mordida </b></size></color>
 
 - Abyssal Fenrir entra en el estado de Berserk cada 30 turnos.
 - En el estado de Berserk, la oportunidad crítica se convierte en <b>60%</b>, ATK aumenta en <b>150%</b> y DEF disminuye en <b>100%</b>.
@@ -248,9 +248,9 @@ UI_BOSS_900002_INFO_WAVE1,"<color=#c17636><size=20><b>[Attack Pattern] Wrath - N
 - No estado de Berserk, o acaso crítico se torna <b>60%</b>, o ATK aumenta em <b>60%</b> e o DEF diminui em <b>100%</b>.
 - O abissal Saehrimnir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]怒り - 基本攻撃 - 基本攻撃 - 基本攻撃 - 基本攻撃</b></size></color>
 
--Abyssal Saehrimnirは、30ターンごとにBerserk Stateに入ります。
-- バーセルク州では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>60％</b>増加し、defは<b>100％</b>減少します。
--Abyssal Saehrimnirは非帰属であり、Arenaが適用するのと同じ精度式です。","<color=#c17636><size=20><b>[patrón de ataque] ira - ataque básico - ataque básico - ataque básico - ataque básico </b></size></color>
+- 深淵のセーフリームニルは、30ターンごとにバーサーク状態に入ります。
+- バーサーク状態では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>60％</b>増加し、DEFは<b>100％</b>減少します。
+- 深淵のセーフリームニルは無属性であり、アリーナと同じ命中計算式が適用されます。","<color=#c17636><size=20><b>[patrón de ataque] ira - ataque básico - ataque básico - ataque básico - ataque básico </b></size></color>
 
 - Abyssal Saehrimnir entra en el estado de Berserk cada 30 turnos.
 - En el estado de Berserk, la posibilidad crítica se convierte en <b>60%</b>, ATK aumenta en <b>60%</b> y DEF disminuye en <b>100%</b>.
@@ -290,11 +290,11 @@ UI_BOSS_900002_INFO_WAVE2,"<color=#c17636><size=20><b>[Attack Pattern] Wrath - N
 
 - Saehrimnir abissal entra no estado de Berserk a cada 30 turnos.
 - No estado de Berserk, o acaso crítico se torna <b>60%</b>, o ATK aumenta em <b>80%</b> e o DEF diminui em <b>100%</b>.
-- O abissal Saehrimnir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]怒り - 基本攻撃 - 基本攻撃 - 二重攻撃 - 基本攻撃</b></size></color>
+- O abissal Saehrimnir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]怒り - 基本攻撃 - 基本攻撃 - ダブル攻撃 - 基本攻撃</b></size></color>
 
--Abyssal Saehrimnirは、30ターンごとにBerserk Stateに入ります。
-- バーセルク州では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>80％</b>増加し、defは<b>100％</b>減少します。
--Abyssal Saehrimnirは非帰属であり、Arenaが適用するのと同じ精度式です。","<color=#c17636><size=20><b>[patrón de ataque] ira - ataque básico - ataque básico - doble ataque - ataque básico </b></size></color>
+- 深淵のセーフリームニルは、30ターンごとにバーサーク状態に入ります。
+- バーサーク状態では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>80％</b>増加し、DEFは<b>100％</b>減少します。
+- 深淵のセーフリームニルは無属性であり、アリーナと同じ命中計算式が適用されます。","<color=#c17636><size=20><b>[patrón de ataque] ira - ataque básico - ataque básico - doble ataque - ataque básico </b></size></color>
 
 - Abyssal Saehrimnir entra en el estado de Berserk cada 30 turnos.
 - En el estado de Berserk, la oportunidad crítica se convierte en <b>60%</b>, ATK aumenta en <b>80%</b> y DEF disminuye en <b>100%</b>.
@@ -334,11 +334,11 @@ UI_BOSS_900002_INFO_WAVE3,"<color=#c17636><size=20><b>[Attack Pattern] Wrath - M
 
 - Saehrimnir abissal entra no estado de Berserk a cada 30 turnos.
 - No estado de Berserk, o acaso crítico se torna <b>60%</b>, o ATK aumenta em <b>80%</b> e o DEF diminui em <b>100%</b>.
-- O abissal Saehrimnir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]怒り - マルチ攻撃 - 基本攻撃 - レイジ - 基本攻撃</b></size></color>
+- O abissal Saehrimnir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]怒り - 連打 - 基本攻撃 - 憤怒 - 基本攻撃</b></size></color>
 
--Abyssal Saehrimnirは、30ターンごとにBerserk Stateに入ります。
-- バーセルク州では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>80％</b>増加し、defは<b>100％</b>減少します。
--Abyssal Saehrimnirは非帰属であり、Arenaが適用するのと同じ精度式です。","<color=#c17636><size=20><b>[patrón de ataque] ira - ataque múltiple - ataque básico - rabia - ataque básico </b></size></color>
+- 深淵のセーフリームニルは、30ターンごとにバーサーク状態に入ります。
+- バーサーク状態では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>80％</b>増加し、DEFは<b>100％</b>減少します。
+- 深淵のセーフリームニルは無属性であり、アリーナと同じ命中計算式が適用されます。","<color=#c17636><size=20><b>[patrón de ataque] ira - ataque múltiple - ataque básico - rabia - ataque básico </b></size></color>
 
 - Abyssal Saehrimnir entra en el estado de Berserk cada 30 turnos.
 - En el estado de Berserk, la oportunidad crítica se convierte en <b>60%</b>, ATK aumenta en <b>80%</b> y DEF disminuye en <b>100%</b>.
@@ -378,11 +378,11 @@ UI_BOSS_900002_INFO_WAVE4,"<color=#c17636><size=20><b>[Attack Pattern] Wrath - M
 
 - Saehrimnir abissal entra no estado de Berserk a cada 30 turnos.
 - No estado de Berserk, o acaso crítico se torna <b>60%</b>, ATK aumenta em <b>80%</b> e diminui em <b>130%</b>.
-- O abissal Saehrimnir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]怒り - マルチ攻撃 - 基本攻撃 - 怒り - 基本攻撃 - 腐食</b></size></color>
+- O abissal Saehrimnir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]怒り - 連打 - 基本攻撃 - 憤怒 - 基本攻撃 - 腐食</b></size></color>
 
--Abyssal Saehrimnirは、30ターンごとにBerserk Stateに入ります。
-- バーセルク州では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>80％</b>増加し、defは<b>130％</b>減少します。
--Abyssal Saehrimnirは非帰属であり、Arenaが適用するのと同じ精度式です。","<color=#c17636><size=20><b>[patrón de ataque] ira - ataque múltiple - ataque básico - rabia - ataque básico - corrosión </b></size></color>
+- 深淵のセーフリームニルは、30ターンごとにバーサーク状態に入ります。
+- バーサーク状態では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>80％</b>増加し、DEFは<b>130％</b>減少します。
+- 深淵のセーフリームニルは無属性であり、アリーナと同じ命中計算式が適用されます。","<color=#c17636><size=20><b>[patrón de ataque] ira - ataque múltiple - ataque básico - rabia - ataque básico - corrosión </b></size></color>
 
 - Abyssal Saehrimnir entra en el estado de Berserk cada 30 turnos.
 - En el estado de Berserk, la oportunidad crítica se convierte en <b>60%</b>, ATK aumenta en <b>80%</b> y DEF disminuye en <b>130%</b>.
@@ -422,11 +422,11 @@ UI_BOSS_900002_INFO_WAVE5,"<color=#c17636><size=20><b>[Attack Pattern] Wrath - M
 
 - Saehrimnir abissal entra no estado de Berserk a cada 30 turnos.
 - No estado de Berserk, o acaso crítico se torna <b>60%</b>, ATK aumenta em <b>80%</b> e diminui em <b>150%</b>.
-- O abissal Saehrimnir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]怒り - マルチ攻撃 - 基本攻撃 - 怒り - 基本攻撃 - 腐食</b></size></color>
+- O abissal Saehrimnir não é atribuído e a mesma fórmula de precisão que a arena se aplica.","<color=#c17636> <size=20> <b>[攻撃パターン]怒り - 連打 - 基本攻撃 - 憤怒 - 基本攻撃 - 腐食</b></size></color>
 
--Abyssal Saehrimnirは、30ターンごとにBerserk Stateに入ります。
-- バーセルク州では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>80％</b>増加し、defは<b>150％</b>減少します。
--Abyssal Saehrimnirは非帰属であり、Arenaが適用するのと同じ精度式です。","<color=#c17636><size=20><b>[patrón de ataque] ira - ataque múltiple - ataque básico - rabia - ataque básico - corrosión </b></size></color>
+- 深淵のセーフリームニルは、30ターンごとにバーサーク状態に入ります。
+- バーサーク状態では、クリティカルチャンスは<b>60％</b>になり、ATKは<b>80％</b>増加し、DEFは<b>150％</b>減少します。
+- 深淵のセーフリームニルは無属性であり、アリーナと同じ命中計算式が適用されます。","<color=#c17636><size=20><b>[patrón de ataque] ira - ataque múltiple - ataque básico - rabia - ataque básico - corrosión </b></size></color>
 
 - Abyssal Saehrimnir entra en el estado de Berserk cada 30 turnos.
 - En el estado de Berserk, la oportunidad crítica se convierte en <b>60%</b>, ATK aumenta en <b>80%</b> y DEF disminuye en <b>150%</b>.
@@ -453,4 +453,4 @@ UI_BOSS_900002_INFO_WAVE5,"<color=#c17636><size=20><b>[Attack Pattern] Wrath - M
 
 - Abyssal Saehrimnir bước vào Berserk State cứ sau 30 lượt.
 - Ở trạng thái Berserk, cơ hội quan trọng trở thành <b>60%</b>, ATK tăng <b>80%</b> và DEF giảm <b>150%</b>.
-- Abyssal Saehrimnir không thuộc tính và công thức chính xác tương tự như đấu trường được áp dụng."
+- Abyssal Saehrimnir không thuộc tính và công thức chính xác tương tự như đấu trường được áp dụng.",
